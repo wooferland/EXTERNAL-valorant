@@ -1,3 +1,4 @@
+(NEW LOADER)
 Toutes version Windows Supporté :
 (Win10/Win11 23h2/24h2)
 Aucun paramètre à changer sur votre PC :
